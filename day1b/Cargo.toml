@@ -1,7 +1,7 @@
 [package]
-name = "day1a"
+name = "day1b"
 version = "0.1.0"
-authors = ["András Eisenberger <csirkeee@gmail.com>"]
+authors = ["Andras Eisenberger <csirkeee@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
